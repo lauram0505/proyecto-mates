@@ -3,6 +3,8 @@
 
 Esto es un fichero muy lindo.
 
+Estos son unos cambios nuevos.
+
 Este es mi fichero de matematicas.
 
 Esto es una modificacion.
