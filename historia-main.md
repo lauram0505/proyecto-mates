@@ -1,4 +1,4 @@
-Hace unas semanas este curso empezo.
+Hace unas semanas este curso empezo. Este curso se ha realizado en septiembre.
 
 Hice un cambio.
 
